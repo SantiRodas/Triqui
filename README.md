@@ -1,19 +1,19 @@
-# Triqui
+#Triqui
 
-Proyecto personal del juego "Tres en linea" que consiste en marcar un tablero de 3x3 alternativamente con una "X" o una "O". 
-Se considera el usuario ganador al que complete toda una linea vertical, horizontal o cruzada con la misma letra.
+Personal project of the game "Three in a row" that consists of marking a 3x3 board alternately with an "X" or an "O".
+The winning user is considered to be the one who completes an entire vertical, horizontal or crossed line with the same letter.
 
 
-## Herramientas de uso
+## Usage tools
 
 * Scene Builder
 * Eclipse
 
-## Desarrollador
+## Developer
 
 * Santiago Rodas Rodriguez
 
-## Diseño de ventanas
+## Window design
 
 ![](https://github.com/SantiRodas/Triqui/blob/master/1.JPG)
 
